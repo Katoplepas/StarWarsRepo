@@ -1,5 +1,5 @@
 # Star Wars Repo
 
-![./millenium-falcon.png](Millenium Falcon)
+![Millenium Falcon](./millenium-falcon.png)
 
 Repositório de exemplo.
